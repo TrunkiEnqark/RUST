@@ -1,5 +1,5 @@
 use std::io;
-// use std::num;
+use std::num;
 use std::cmp::min;
 
 fn main() {

@@ -1,6 +1,5 @@
-workspace = { members = ["src/Frog2", "src/frog2"] }
 [package]
-name = "Frog1"
+name = "pnumber"
 version = "0.1.0"
 edition = "2021"
 
