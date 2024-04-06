@@ -1,7 +1,4 @@
 fn main() {
-    let a: [i32; 5] = [0, 4, 5, 9, 0];
-    let n = 5;
-    for i in 0..n {
-        println!("a[{i}] = {} ", a[i]);
-    }
+    let a: usize = 121323243453;
+    println!("{}", std::mem::size_of_val(&a));
 }
